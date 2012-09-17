@@ -1,0 +1,17 @@
+[22-Sep-2011 22:31:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'database/class.DatabaseManager.php' (include_path='.:/usr/local/php52/pear') in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 2
+[22-Sep-2011 23:38:27] PHP Fatal error:  Call to a member function childNodes() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 147
+[22-Sep-2011 23:45:07] PHP Fatal error:  Call to a member function childNodes() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 147
+[23-Sep-2011 18:28:18] PHP Fatal error:  Cannot use object of type simple_html_dom_node as array in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 152
+[23-Sep-2011 18:35:03] PHP Fatal error:  Call to a member function find() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 155
+[23-Sep-2011 18:39:02] PHP Fatal error:  Call to a member function children() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 155
+[23-Sep-2011 18:39:32] PHP Fatal error:  Call to a member function children() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 155
+[23-Sep-2011 18:41:16] PHP Fatal error:  Call to a member function children() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 156
+[23-Sep-2011 18:45:22] PHP Fatal error:  Call to a member function find() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 157
+[23-Sep-2011 18:48:14] PHP Fatal error:  Call to a member function find() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 159
+[23-Sep-2011 19:24:21] PHP Fatal error:  Function name must be a string in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 174
+[23-Sep-2011 19:36:45] PHP Fatal error:  Class 'RedirectFollow' not found in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 197
+[23-Sep-2011 19:42:50] PHP Fatal error:  Class 'RedirectFollow' not found in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 195
+[23-Sep-2011 19:44:14] PHP Fatal error:  Call to a member function strip_html_tags() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 97
+[23-Sep-2011 19:45:55] PHP Catchable fatal error:  Object of class RedirectFollow could not be converted to string in /home/drewfri9/public_html/jobscrape/htmldom/FollowURLRedirect.php on line 7
+[23-Sep-2011 19:53:26] PHP Fatal error:  Call to a member function strip_html_tags() on a non-object in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 98
+[23-Sep-2011 20:05:46] PHP Parse error:  syntax error, unexpected $end in /home/drewfri9/public_html/jobscrape/sites/JobCenter.php on line 205

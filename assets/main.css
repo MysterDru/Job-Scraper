@@ -1,0 +1,48 @@
+/** styles for job scraping application 
+ * 	on all main html pages
+ */
+html { padding: 0; margin: 0;}
+body {
+	background:		#F2F2F2;
+}
+#pageContent { padding: 5px; }
+a:link, a:visited {
+	color:			#3B5998;
+	text-decoration:none;
+}
+
+#content {
+	width:			970px;
+	margin:			auto;
+}
+#overview {
+	float:	left;
+	width: 470px;
+}
+#projectResources {
+	float: right;
+	width: 470px;
+}
+table#skills tr td {
+	padding:		5px;
+}
+
+table#skills tr td.jobID {
+	
+}
+
+table#skills tr td.jobCompany {
+	
+}
+
+table#skills tr td.jobCat {
+	
+}
+
+table#skills tr td.jobTitle {
+	
+}
+
+table#skills tr td.jobSkills {
+	
+}
